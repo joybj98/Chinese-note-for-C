@@ -1,3 +1,3 @@
 # Learning-C
 
-This is my chinese note when learning C programming.
+This is my chinese note when learning C.
