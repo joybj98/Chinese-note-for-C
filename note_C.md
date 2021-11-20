@@ -1,7 +1,4 @@
----
-title: "C"
-tags: ""
----
+
 
 ## printf, sacanf 语句
 
